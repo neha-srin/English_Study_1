@@ -1,0 +1,329 @@
+Prolific_ID,Option Generated,Generation,Scenario,How Good,How Probable,How Morally Acceptable,How Normal
+6574af22de574dcc620a9b60,Uber,1,Scenario 2,100,90,100,100
+6574af22de574dcc620a9b60,Taxi,2,Scenario 2,75,75,100,80
+6574af22de574dcc620a9b60,Lyft,3,Scenario 2,80,80,100,100
+6574af22de574dcc620a9b60,Friend,4,Scenario 2,100,70,80,100
+6574af22de574dcc620a9b60,Mom,5,Scenario 2,70,70,100,100
+6574af22de574dcc620a9b60,Dad,6,Scenario 2,85,90,100,100
+6574af22de574dcc620a9b60,GF,7,Scenario 2,85,92,100,100
+6574af22de574dcc620a9b60,Hitchhike ,8,Scenario 2,20,2,50,15
+6574af22de574dcc620a9b60,Call Mom,1,Scenario 4,100,100,100,100
+6574af22de574dcc620a9b60,Explain Situation,2,Scenario 4,100,100,100,100
+6574af22de574dcc620a9b60,Try and turn in at a later date,3,Scenario 4,65,70,76,100
+6574af22de574dcc620a9b60,Do nothing,4,Scenario 4,65,70,76,100
+6574af22de574dcc620a9b60,Turn in nothing,5,Scenario 4,0,65,3,10
+6574af22de574dcc620a9b60,Talk to teacher,6,Scenario 4,100,100,100,100
+6574af22de574dcc620a9b60,Find a ride home,7,Scenario 4,72,78,66,85
+6574af22de574dcc620a9b60,Find a way to get the paper,8,Scenario 4,100,100,100,100
+6574af22de574dcc620a9b60,Workout without membership,1,Scenario 6,50,70,30,30
+6574af22de574dcc620a9b60,Renew membership,2,Scenario 6,100,100,100,100
+6574af22de574dcc620a9b60,Cancel workout,3,Scenario 6,0,65,100,100
+6574af22de574dcc620a9b60,Workout outside,4,Scenario 6,0,65,100,100
+6574af22de574dcc620a9b60,Go running,5,Scenario 6,100,50,100,100
+6574af22de574dcc620a9b60,Calisthenics,6,Scenario 6,100,70,100,100
+6574af22de574dcc620a9b60,Find outside equiptment,7,Scenario 6,60,50,100,75
+6574af22de574dcc620a9b60,Workout alternative,8,Scenario 6,100,50,100,100
+6574af22de574dcc620a9b60,Explain to his Date,1,Scenario 7,100,90,100,100
+6574af22de574dcc620a9b60,Dash and Dine,2,Scenario 7,10,50,0,2
+6574af22de574dcc620a9b60,Run away crying,3,Scenario 7,0,0,0,1
+6574af22de574dcc620a9b60,Make up an excuse,4,Scenario 7,64,92,62,78
+6574af22de574dcc620a9b60,Lie about being robbed,5,Scenario 7,50,50,10,25
+6574af22de574dcc620a9b60,Make the date pay,6,Scenario 7,0,3,5,1
+6574af22de574dcc620a9b60,Sit there with no emotion,7,Scenario 7,0,5,6,2
+6574af22de574dcc620a9b60,Start laughing ,8,Scenario 7,0,1,2,1
+63e691a2fd3a3389c644c4c7,Ask family for the money,1,Scenario 1,0,1,2,1
+63e691a2fd3a3389c644c4c7,Ask friends for the money,2,Scenario 1,100,84,83,89
+63e691a2fd3a3389c644c4c7,Ask colleagues,3,Scenario 1,66,64,50,28
+63e691a2fd3a3389c644c4c7,Take a loan,4,Scenario 1,88,77,78,76
+63e691a2fd3a3389c644c4c7,Start a fundraiser,5,Scenario 1,80,77,61,93
+63e691a2fd3a3389c644c4c7,Ask for billing assistance,6,Scenario 1,100,100,100,91
+63e691a2fd3a3389c644c4c7,Take aloan,7,Scenario 1,84,78,77,74
+63e691a2fd3a3389c644c4c7,Vote democrat next election,8,Scenario 1,100,80,100,88
+63e691a2fd3a3389c644c4c7,Check the tills again,1,Scenario 3,100,80,100,88
+63e691a2fd3a3389c644c4c7,Try to find out what is missing exactly,2,Scenario 3,100,100,100,100
+63e691a2fd3a3389c644c4c7,Alert his manager to the problem,3,Scenario 3,100,89,100,90
+63e691a2fd3a3389c644c4c7,Follow protocols ,4,Scenario 3,100,96,100,89
+63e691a2fd3a3389c644c4c7,Keep relevant information for accountability,5,Scenario 3,100,95,100,92
+63e691a2fd3a3389c644c4c7,Close up as normal,6,Scenario 3,100,100,100,100
+63e691a2fd3a3389c644c4c7,Immediately check in the next day with management,7,Scenario 3,100,100,100,100
+63e691a2fd3a3389c644c4c7,Ask the other employees if they remember anything unusual from the previous day,8,Scenario 3,100,100,100,100
+63e691a2fd3a3389c644c4c7,Apologise,1,Scenario 7,100,100,100,100
+63e691a2fd3a3389c644c4c7,Explain the situation,2,Scenario 7,100,100,100,100
+63e691a2fd3a3389c644c4c7,Promise to make amends,3,Scenario 7,100,95,100,76
+63e691a2fd3a3389c644c4c7,Repay the neighbor the next day,4,Scenario 7,100,95,100,86
+63e691a2fd3a3389c644c4c7,Ask the neighbor how he can make it up to them,5,Scenario 7,100,72,100,52
+63e691a2fd3a3389c644c4c7,Be sincere in his efforts to rectify the situation,6,Scenario 7,100,94,100,81
+63e691a2fd3a3389c644c4c7,Find out why it declined and fix it,7,Scenario 7,100,100,100,100
+63e691a2fd3a3389c644c4c7,Be prepared next time,8,Scenario 7,100,90,100,100
+63e691a2fd3a3389c644c4c7,Take the test,1,Scenario 8,80,100,84,95
+63e691a2fd3a3389c644c4c7,Cram and hope for the best,2,Scenario 8,100,100,100,100
+63e691a2fd3a3389c644c4c7,Ask for an extension,3,Scenario 8,70,60,73,60
+63e691a2fd3a3389c644c4c7,Ask for a retake,4,Scenario 8,79,68,78,64
+63e691a2fd3a3389c644c4c7,Let this be a lesson in priorities,5,Scenario 8,100,15,94,41
+63e691a2fd3a3389c644c4c7,Accept this setback,6,Scenario 8,100,15,74,32
+63e691a2fd3a3389c644c4c7,Remember how this felt,7,Scenario 8,100,83,80,71
+63e691a2fd3a3389c644c4c7,Focus on her emotional healing ,8,Scenario 8,100,9,91,50
+62e5a1374e9ae5284b4625b4,Ask if they could get a small amount until they find a solution,1,Scenario 1,100,9,91,50
+62e5a1374e9ae5284b4625b4,Switch insurance,2,Scenario 1,100,25,100,100
+62e5a1374e9ae5284b4625b4,Ask friends for money,3,Scenario 1,100,75,100,100
+62e5a1374e9ae5284b4625b4,Ask family for money,4,Scenario 1,100,75,100,100
+62e5a1374e9ae5284b4625b4,Ask for an advance pay,5,Scenario 1,100,75,100,100
+62e5a1374e9ae5284b4625b4,Find programs that may assist,6,Scenario 1,100,75,100,100
+62e5a1374e9ae5284b4625b4,Steal the money,7,Scenario 1,0,10,0,25
+62e5a1374e9ae5284b4625b4,Steal the medicine,8,Scenario 1,100,10,50,50
+62e5a1374e9ae5284b4625b4,Do nothing,1,Scenario 4,0,75,100,100
+62e5a1374e9ae5284b4625b4,Ask if she can turn it in tomorrow,2,Scenario 4,100,90,100,100
+62e5a1374e9ae5284b4625b4,Say she does not have it but will turn it in tomorrow,3,Scenario 4,100,80,100,100
+62e5a1374e9ae5284b4625b4,Call her mom and ask if she can drop it off,4,Scenario 4,100,80,100,100
+62e5a1374e9ae5284b4625b4,Steal someone else's ,5,Scenario 4,0,5,0,0
+62e5a1374e9ae5284b4625b4,Ask her mom to bring it with her when picking up Mary and Mary can hand it in,6,Scenario 4,100,50,100,100
+62e5a1374e9ae5284b4625b4,Ditch class,7,Scenario 4,0,5,100,50
+62e5a1374e9ae5284b4625b4,Fake sickness and leave class early before she has to turn it in,8,Scenario 4,0,10,100,50
+62e5a1374e9ae5284b4625b4,Renew her membership,1,Scenario 6,100,100,100,100
+62e5a1374e9ae5284b4625b4,Walk in and say if she can still enter,2,Scenario 6,100,25,100,100
+62e5a1374e9ae5284b4625b4,Walk in and say she will renew later,3,Scenario 6,100,25,100,100
+62e5a1374e9ae5284b4625b4,Leave the gym,4,Scenario 6,100,25,100,100
+62e5a1374e9ae5284b4625b4,Go eat lunch,5,Scenario 6,100,5,100,100
+62e5a1374e9ae5284b4625b4,Skip the day,6,Scenario 6,0,10,100,100
+62e5a1374e9ae5284b4625b4,Workout at home,7,Scenario 6,100,25,100,100
+62e5a1374e9ae5284b4625b4,See if someone is willing to help her in as a guest,8,Scenario 6,100,10,100,100
+62e5a1374e9ae5284b4625b4,Skip the test,1,Scenario 8,0,0,100,10
+62e5a1374e9ae5284b4625b4,Fake a reason for why she cannot make it and get an extension,2,Scenario 8,0,0,100,0
+62e5a1374e9ae5284b4625b4,Cram as much as possible,3,Scenario 8,100,100,100,100
+62e5a1374e9ae5284b4625b4,Cheat,4,Scenario 8,0,0,0,0
+62e5a1374e9ae5284b4625b4,Take the test,5,Scenario 8,100,100,100,100
+62e5a1374e9ae5284b4625b4,Study what she can,6,Scenario 8,100,100,100,100
+62e5a1374e9ae5284b4625b4,Sleep in,7,Scenario 8,100,0,100,100
+62e5a1374e9ae5284b4625b4,Ask for help with studying,8,Scenario 8,100,80,100,100
+60dc4e2299f89a7ca94b2c91,Call a Tow Truck: Contact a towing service to get his car moved off the highway and request a ride to the nearest transportation hub.,1,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Use a Rideshare App: Use a rideshare app like Uber or Lyft to request a ride directly to the airport.,2,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Call a Taxi Service: Contact a local taxi service to pick him up from his location and take him to the airport.,3,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Contact a Friend or Family Member: Call a friend or family member who might be available to pick him up and take him to the airport.,4,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Check Public Transportation Options: Look up the nearest bus or train routes that could get him to the airport.,5,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Flag Down a Passing Vehicle: If safe to do so, try to flag down a passing vehicle for assistance or a ride to the airport.",6,Scenario 2,90,90,95,95
+60dc4e2299f89a7ca94b2c91,Walk to a Nearby Business: Walk to a nearby business or gas station to seek help or use their phone to arrange transportation.,7,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Contact the Airline: Call the airline to explain the situation and see if there are any options for rescheduling or getting on a later flight if he misses the current one.,8,Scenario 2,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Double-Check Transactions: Review all transactions of the day to ensure there were no errors in recording sales, discounts, or returns.",1,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Count the Cash Again: Recount the cash in the register to ensure there was no mistake in the initial count.,2,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Check for Misplaced Money: Look around the register area to see if any money has fallen or been misplaced.,3,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Review Security Footage: If available, check the security camera footage to identify any suspicious activities or errors.",4,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Ask Employees: Talk to other employees who worked that day to see if they noticed anything unusual or if they can help account for the discrepancy.,5,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Check Receipts and Records: Verify that all receipts match the recorded sales and that no receipts are missing.,6,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Examine Recent Sales Promotions: Review any recent sales promotions or discounts that could have led to an incorrect calculation or missing amount.,7,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Report the Issue: If the discrepancy cannot be resolved, report the issue to the bakery owner or higher management immediately and document all efforts made to find the missing money.",8,Scenario 3,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Stay Calm: Keep everyone calm to make rational decisions and avoid panic.,1,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Stay Put: Remain in one place to make it easier for rescuers to find them, unless they are in immediate danger.",2,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Signal for Help: Use available materials to create visible signals, such as SOS signs with rocks, reflective materials, or a smoky fire.",3,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Ration Food and Water: Carefully ration their remaining food and water to last as long as possible.,4,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Find Water: Locate a water source, such as a stream or river, and purify the water using tablets, boiling, or a filtration device if available.",5,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Build a Shelter: Construct a shelter using natural materials to protect themselves from the cold and weather.,6,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Keep Warm: Build a fire for warmth, signaling, and protection against wild animals. Ensure proper ventilation to avoid carbon monoxide poisoning.",7,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Use Emergency Gear: Utilize any emergency gear they have, such as a compass, map, GPS device, or emergency beacon, to help signal for help or navigate to a safer location.",8,Scenario 5,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Use a Different Payment Method: If Sam has another credit card, debit card, or cash, he can use it to pay the bill.",1,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Check Mobile Banking: Use a mobile banking app to transfer funds to the account linked to the declined credit card, if possible.",2,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Call the Bank: Contact his bank to explain the situation and see if they can temporarily increase his credit limit or resolve the issue with the card.,3,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Ask the Restaurant for Assistance: Speak to the restaurant manager to explain the situation and see if they can hold his ID while he arranges payment or returns with cash.,4,Scenario 7,100,100,90,90
+60dc4e2299f89a7ca94b2c91,Ask the Neighbor for Help: Politely ask his date if they can cover the bill and assure them that he will repay them as soon as possible.,5,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Use a Payment App: If both Sam and the restaurant accept mobile payment apps (like PayPal, Venmo, or Apple Pay), he can use those to pay.",6,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,"Visit an ATM: If there's an ATM nearby, he can withdraw cash to pay the bill.",7,Scenario 7,100,100,100,100
+60dc4e2299f89a7ca94b2c91,Offer Collateral: Offer to leave something of value (like a watch or phone) with the restaurant as collateral until he can return with payment.,8,Scenario 7,90,95,90,90
+610caddd4cac0d49d4261368,Ask their doctor to contact their insurance company and plead her case; try to get them to approve the medicine,1,Scenario 1,90,95,90,90
+610caddd4cac0d49d4261368,See if there are any off-brand versions of the medicine they could have covered instead,2,Scenario 1,100,91,100,100
+610caddd4cac0d49d4261368,"Start offering to provide services to friends/family/neighbors to work to raise the money for her; cleaning houses, mowing lawns, walking pets, etc.",3,Scenario 1,80,25,100,75
+610caddd4cac0d49d4261368,Start a Gofundme and share on social media to see if people will donate,4,Scenario 1,65,60,72,85
+610caddd4cac0d49d4261368,Go to a local church and see if any of the members would be willing to help them out,5,Scenario 1,65,35,71,45
+610caddd4cac0d49d4261368,"If not working, begin a job or if already working, try and get a second or third job ",6,Scenario 1,25,10,100,100
+610caddd4cac0d49d4261368,Sell some their personal items to raise the money,7,Scenario 1,40,65,90,84
+610caddd4cac0d49d4261368,Make continuous trips to the emergency room where she cannot be denied the care she needs once it becomes life threatening,8,Scenario 1,5,5,0,15
+610caddd4cac0d49d4261368,Put his own money into the register,1,Scenario 3,5,5,0,15
+610caddd4cac0d49d4261368,Call the employees and see if someone will honestly admit to taking it or screwing up,2,Scenario 3,90,61,92,81
+610caddd4cac0d49d4261368,Watch camera footage from the entire day to try and spot when the error was made,3,Scenario 3,25,5,65,0
+610caddd4cac0d49d4261368,Call his boss and explain the situation to see if there's another solution,4,Scenario 3,100,71,90,80
+610caddd4cac0d49d4261368,Leave work and deal with it tomorrow,5,Scenario 3,0,40,20,0
+610caddd4cac0d49d4261368,Lie and say the register is balance and hope for the best,6,Scenario 3,0,10,0,0
+610caddd4cac0d49d4261368,Check under the register & the surrounding areas to see if the money was misplaced,7,Scenario 3,100,100,100,100
+610caddd4cac0d49d4261368,Ask his boss to just take the money out of his next check to make things right,8,Scenario 3,30,25,62,44
+610caddd4cac0d49d4261368,Have him and his friends scream as loudly as they can to try and signal help,1,Scenario 5,88,95,100,30
+610caddd4cac0d49d4261368,Separate from his friends and everyone goes in a different direction to try and find help,2,Scenario 5,5,1,55,38
+610caddd4cac0d49d4261368,Continue moving forward with his entire group hoping they can find a way out,3,Scenario 5,60,70,86,79
+610caddd4cac0d49d4261368,Stay still where they are and hope help will arrive in time,4,Scenario 5,0,5,63,71
+610caddd4cac0d49d4261368,Find some kind of water source and instead stay there and hope help will come but be able to have something to drink,5,Scenario 5,0,5,63,71
+610caddd4cac0d49d4261368,Try using his phone to dial 911 as he walks through different parts of the mountain hoping cell service will eventually work,6,Scenario 5,100,90,100,84
+610caddd4cac0d49d4261368,Make his friends stay put while he journeys away himself to try and find help,7,Scenario 5,4,1,45,39
+610caddd4cac0d49d4261368,Have himself stay put and send his friends out to find help,8,Scenario 5,3,0,10,3
+610caddd4cac0d49d4261368,Try and study as much as she can the night before,1,Scenario 8,100,90,100,100
+610caddd4cac0d49d4261368,Pretend she is sick or something came up so that she misses the class and has to retest,2,Scenario 8,39,85,40,90
+610caddd4cac0d49d4261368,Write some answers/studying points down on herself or objects to cheat on the test,3,Scenario 8,20,71,0,88
+610caddd4cac0d49d4261368,Cheat off of someone else in class for the test,4,Scenario 8,10,55,0,90
+610caddd4cac0d49d4261368,Sit down with her teacher and explain what's going on with her to see if her teacher may be willing to help her test at a later time,5,Scenario 8,95,64,100,70
+610caddd4cac0d49d4261368,Drop the class and give up for this year; try again the next year,6,Scenario 8,0,10,45,55
+610caddd4cac0d49d4261368,Talk to a close friend or someone she knows well that is good at biology and see what they think are the best pointers for her to study and take to class the next day,7,Scenario 8,100,35,100,30
+610caddd4cac0d49d4261368,Start some sort of huge commotion in the middle of the class like pulling a fire alarm that disrupts everyone so that the teacher will be forced to change the test date to another day for everyone,8,Scenario 8,0,5,0,2
+62e027478bb6dca099c2e207,Hold a fundraiser,1,Scenario 1,0,5,0,2
+62e027478bb6dca099c2e207,put up a go fund me,2,Scenario 1,100,100,90,100
+62e027478bb6dca099c2e207,ask friends,3,Scenario 1,100,100,100,98
+62e027478bb6dca099c2e207,ask family,4,Scenario 1,100,100,100,100
+62e027478bb6dca099c2e207,ask the community,5,Scenario 1,100,100,100,100
+62e027478bb6dca099c2e207,write to politicians,6,Scenario 1,100,75,100,100
+62e027478bb6dca099c2e207,write to drug companies,7,Scenario 1,100,50,100,100
+62e027478bb6dca099c2e207,write to influencers,8,Scenario 1,100,60,100,100
+62e027478bb6dca099c2e207,Call an uber,1,Scenario 2,100,100,100,100
+62e027478bb6dca099c2e207,call a taxi ,2,Scenario 2,80,80,100,100
+62e027478bb6dca099c2e207,call a friend,3,Scenario 2,100,97,100,100
+62e027478bb6dca099c2e207,call family,4,Scenario 2,100,100,100,100
+62e027478bb6dca099c2e207,hitchhike,5,Scenario 2,50,30,50,35
+62e027478bb6dca099c2e207,run,6,Scenario 2,50,15,40,20
+62e027478bb6dca099c2e207,take a bus,7,Scenario 2,50,30,100,52
+62e027478bb6dca099c2e207,take a train,8,Scenario 2,50,50,100,50
+62e027478bb6dca099c2e207,Renew her membership right now,1,Scenario 6,100,100,100,100
+62e027478bb6dca099c2e207,Take a long walk during her break,2,Scenario 6,100,90,100,100
+62e027478bb6dca099c2e207,Go to lunch,3,Scenario 6,100,89,100,100
+62e027478bb6dca099c2e207,Ask for a 1 day pass to the gym,4,Scenario 6,100,89,100,100
+62e027478bb6dca099c2e207,Call a friend,5,Scenario 6,100,61,100,100
+62e027478bb6dca099c2e207,Go back to work,6,Scenario 6,50,40,100,35
+62e027478bb6dca099c2e207,Go to the park,7,Scenario 6,100,60,100,100
+62e027478bb6dca099c2e207,Do yoga in the park,8,Scenario 6,100,50,100,50
+62e027478bb6dca099c2e207,Pay with cash,1,Scenario 7,100,100,100,100
+62e027478bb6dca099c2e207,use a different card,2,Scenario 7,100,100,100,100
+62e027478bb6dca099c2e207,wash dishes ,3,Scenario 7,36,23,66,22
+62e027478bb6dca099c2e207,ask my date to pay,4,Scenario 7,70,61,62,59
+62e027478bb6dca099c2e207,call the credit card company,5,Scenario 7,100,89,100,100
+62e027478bb6dca099c2e207,go back to my apt and get cash,6,Scenario 7,68,49,100,50
+62e027478bb6dca099c2e207,take money out at an atm,7,Scenario 7,100,60,100,100
+62e027478bb6dca099c2e207,Borrow money,8,Scenario 7,50,30,50,40
+63fb7bd7941b345c37a9c54e,Josh could call a ride share service to come pick him up,1,Scenario 2,95,99,83,94
+63fb7bd7941b345c37a9c54e,She could call or stop a taxi to continue his journey,2,Scenario 2,98,99,99,93
+63fb7bd7941b345c37a9c54e,He could ask for help from the other drivers on the highway,3,Scenario 2,91,99,93,100
+63fb7bd7941b345c37a9c54e,He could call for his car to be towed,4,Scenario 2,97,91,100,99
+63fb7bd7941b345c37a9c54e,Josh could ask a relative to come pick up ,5,Scenario 2,100,94,98,94
+63fb7bd7941b345c37a9c54e,Josh could ask a friend to take his car to the mechanic whiles he continue his journey to the airport in another car,6,Scenario 2,92,100,96,100
+63fb7bd7941b345c37a9c54e,see if he can reschedule his flight a the airport,7,Scenario 2,100,97,100,98
+63fb7bd7941b345c37a9c54e,Wait for help from someone to repair his car since he has a lot of time,8,Scenario 2,78,94,79,99
+63fb7bd7941b345c37a9c54e,Mary could call her Mom to bring her homework assignment to school,1,Scenario 4,100,100,95,100
+63fb7bd7941b345c37a9c54e,She could call her mom for the teacher to prove that it wasn't her fault,2,Scenario 4,95,97,93,100
+63fb7bd7941b345c37a9c54e,She could quickly do a new one to turn in for the credit,3,Scenario 4,28,8,21,27
+63fb7bd7941b345c37a9c54e,She could ask for permission to go get the assignment at home,4,Scenario 4,28,8,21,27
+63fb7bd7941b345c37a9c54e,She could try explaining the situation to the teacher to see if she will get an extension,5,Scenario 4,100,97,99,100
+63fb7bd7941b345c37a9c54e,She could ask some of her friends to help redo the assignment quickly,6,Scenario 4,0,12,7,16
+63fb7bd7941b345c37a9c54e,Mary could try to get her mom to explain the situation to the teacher,7,Scenario 4,100,94,95,100
+63fb7bd7941b345c37a9c54e,Politely request that the teacher let her do another homework to make up for this mistake.,8,Scenario 4,81,68,86,78
+63fb7bd7941b345c37a9c54e,They could spread out to cover more grounds,1,Scenario 5,100,91,100,92
+63fb7bd7941b345c37a9c54e,they could leave marks on their way to identify places they have been,2,Scenario 5,95,97,89,97
+63fb7bd7941b345c37a9c54e,they could build a shelter to stay warm,3,Scenario 5,83,97,92,99
+63fb7bd7941b345c37a9c54e,They could use less of their food to make it last longer,4,Scenario 5,98,99,100,95
+63fb7bd7941b345c37a9c54e,They could start a fire to send signals for help,5,Scenario 5,98,99,100,95
+63fb7bd7941b345c37a9c54e,They could make noises on their way to make it easy for them to be heard and seen.,6,Scenario 5,90,80,90,85
+63fb7bd7941b345c37a9c54e,Search for water resources,7,Scenario 5,100,100,100,97
+63fb7bd7941b345c37a9c54e,Pay attention to sounds nearby,8,Scenario 5,87,99,99,93
+63fb7bd7941b345c37a9c54e,Liz could try renewing the subscription on her smartphone,1,Scenario 6,97,100,94,100
+63fb7bd7941b345c37a9c54e,She could reschedule her workout,2,Scenario 6,88,80,100,94
+63fb7bd7941b345c37a9c54e,She could check if they will allow her to renew her subscription at the gym center,3,Scenario 6,100,100,97,100
+63fb7bd7941b345c37a9c54e,Liz can ask around if they will allow her to pay for that one time and later renew her subscription,4,Scenario 6,100,100,97,100
+63fb7bd7941b345c37a9c54e,She could go home and try watching some workout videos online,5,Scenario 6,100,84,86,98
+63fb7bd7941b345c37a9c54e,Liz could do some running exercise as well,6,Scenario 6,92,96,98,91
+63fb7bd7941b345c37a9c54e,She could ask a friend or relative to help with the subscription renewal,7,Scenario 6,100,96,99,97
+63fb7bd7941b345c37a9c54e,She could always go home without working out for the day,8,Scenario 6,27,40,74,67
+5c01d3c509e9c70001500b10,Ask if her mom could bring her homework to school,1,Scenario 4,100,100,91,92
+5c01d3c509e9c70001500b10,explain the situation and ask teacher if she could turn in the homework next day,2,Scenario 4,98,100,50,93
+5c01d3c509e9c70001500b10,email a copy of homework to teacher,3,Scenario 4,99,78,97,100
+5c01d3c509e9c70001500b10,ask for extra credit opportunities,4,Scenario 4,99,78,97,100
+5c01d3c509e9c70001500b10,redo the workhome ,5,Scenario 4,70,58,96,66
+5c01d3c509e9c70001500b10,ask for additional assignment,6,Scenario 4,79,73,50,68
+5c01d3c509e9c70001500b10,ask if she could submit a photo copy of the homework from home,7,Scenario 4,89,92,97,97
+5c01d3c509e9c70001500b10,stay after school to complete it,8,Scenario 4,67,57,57,59
+5c01d3c509e9c70001500b10,find or create shelter to protect against cold,1,Scenario 5,100,100,100,100
+5c01d3c509e9c70001500b10,gather leaves for insulation,2,Scenario 5,100,100,100,100
+5c01d3c509e9c70001500b10,start a fire for warmth,3,Scenario 5,100,100,34,84
+5c01d3c509e9c70001500b10,signal for help using bright clothing,4,Scenario 5,100,100,100,100
+5c01d3c509e9c70001500b10,stay close togther to conserve body heat,5,Scenario 5,100,100,100,100
+5c01d3c509e9c70001500b10,stay still and minimize movement,6,Scenario 5,80,92,100,50
+5c01d3c509e9c70001500b10,use clothing to cover and protect ,7,Scenario 5,100,100,100,100
+5c01d3c509e9c70001500b10,consume food and water carefully,8,Scenario 5,95,69,93,74
+5c01d3c509e9c70001500b10,renew membership immediately,1,Scenario 6,100,100,100,100
+5c01d3c509e9c70001500b10,ask the gym if she could purchase one day pass,2,Scenario 6,65,41,100,41
+5c01d3c509e9c70001500b10,take a walk in the parking lot instead,3,Scenario 6,63,10,100,25
+5c01d3c509e9c70001500b10,go to lunch instead,4,Scenario 6,63,10,100,25
+5c01d3c509e9c70001500b10,go shopping ,5,Scenario 6,50,34,80,71
+5c01d3c509e9c70001500b10,spend lunch break reading,6,Scenario 6,96,50,100,100
+5c01d3c509e9c70001500b10,spend lunch break catch up with friends,7,Scenario 6,87,65,100,100
+5c01d3c509e9c70001500b10,find gym that offer free trials that she could use that day,8,Scenario 6,89,50,100,60
+5c01d3c509e9c70001500b10,pay with debit card,1,Scenario 7,100,100,100,100
+5c01d3c509e9c70001500b10,call the bank if there is an error,2,Scenario 7,100,100,100,100
+5c01d3c509e9c70001500b10, go to ATM and get some cash,3,Scenario 7,94,74,100,69
+5c01d3c509e9c70001500b10,Ask friend if they can zelle him some money,4,Scenario 7,44,78,51,79
+5c01d3c509e9c70001500b10,Ask parents if they can zelle him money,5,Scenario 7,42,56,49,59
+5c01d3c509e9c70001500b10,Ask cousins if they can zelle him money,6,Scenario 7,46,73,66,73
+5c01d3c509e9c70001500b10,ask his date if they can pay the bill and repay them,7,Scenario 7,34,42,50,30
+5c01d3c509e9c70001500b10,use a different credit card,8,Scenario 7,69,96,100,100
+5b9530390f85f600015705bf,pay money out of his pocket,1,Scenario 3,69,96,100,100
+5b9530390f85f600015705bf,report the money and state you don't know what happened to it,2,Scenario 3,100,90,100,100
+5b9530390f85f600015705bf,overcharge the next customer for that amount,3,Scenario 3,0,3,0,0
+5b9530390f85f600015705bf,steal the money from a fellow employee,4,Scenario 3,0,3,0,0
+5b9530390f85f600015705bf,rob a customer for the money,5,Scenario 3,0,2,0,0
+5b9530390f85f600015705bf,steal all the money and go out with a bang,6,Scenario 3,0,1,0,0
+5b9530390f85f600015705bf,borrow the money from a friend and how them bring it,7,Scenario 3,50,50,74,10
+5b9530390f85f600015705bf,get a quick small loan to pay for it,8,Scenario 3,50,10,50,0
+5b9530390f85f600015705bf,ask her mom to bring it to the school,1,Scenario 4,100,100,100,100
+5b9530390f85f600015705bf,skip classes to finish the work,2,Scenario 4,65,50,50,64
+5b9530390f85f600015705bf,steal somone else's work,3,Scenario 4,0,5,0,4
+5b9530390f85f600015705bf,copy a friends work,4,Scenario 4,0,5,0,4
+5b9530390f85f600015705bf,pay someone to let you copy their work,5,Scenario 4,50,10,36,7
+5b9530390f85f600015705bf,skip school,6,Scenario 4,50,50,80,66
+5b9530390f85f600015705bf,explain to teacher what happened,7,Scenario 4,100,100,100,100
+5b9530390f85f600015705bf,turn in something else and act like you accidentally turned in wrong paper.,8,Scenario 4,9,2,11,0
+5b9530390f85f600015705bf,find a cave,1,Scenario 5,83,14,100,100
+5b9530390f85f600015705bf,kill himself so his friends have a better chance,2,Scenario 5,0,1,50,0
+5b9530390f85f600015705bf,"kill a friend, or all of them so he can keep the resorces for himself.",3,Scenario 5,0,1,0,0
+5b9530390f85f600015705bf,go hunting,4,Scenario 5,96,87,100,100
+5b9530390f85f600015705bf,collect water at night from dew and condensation,5,Scenario 5,96,87,100,100
+5b9530390f85f600015705bf,keep hiking and hope you find your way back,6,Scenario 5,70,82,87,100
+5b9530390f85f600015705bf,stay where they are and hope someone finds them,7,Scenario 5,66,82,83,94
+5b9530390f85f600015705bf,sleep until they are found,8,Scenario 5,11,4,50,2
+5b9530390f85f600015705bf,study as much as possible now and accept the grade she gets,1,Scenario 8,50,95,100,100
+5b9530390f85f600015705bf,cheat by writing answers on hand or bringing note cards.,2,Scenario 8,0,20,0,0
+5b9530390f85f600015705bf,play sick on exam day,3,Scenario 8,50,50,35,35
+5b9530390f85f600015705bf,skip the exam,4,Scenario 8,0,20,50,35
+5b9530390f85f600015705bf,fake an illness in the middle of the exam,5,Scenario 8,0,5,5,0
+5b9530390f85f600015705bf,as a friend to diguise themselves as her and take it.,6,Scenario 8,0,2,0,0
+5b9530390f85f600015705bf,threatened the smartest person in the class in order to make them give you the answers.,7,Scenario 8,0,1,0,0
+5b9530390f85f600015705bf,take the test and just deal with results without studying.,8,Scenario 8,100,100,100,100
+5aa806e7777df200016088c5,review security footage,1,Scenario 3,100,100,100,100
+5aa806e7777df200016088c5,ask employees,2,Scenario 3,100,100,100,100
+5aa806e7777df200016088c5,recount the money,3,Scenario 3,100,100,100,100
+5aa806e7777df200016088c5,recount customer transactions,4,Scenario 3,74,40,100,42
+5aa806e7777df200016088c5,look for misplaced cash,5,Scenario 3,100,100,100,100
+5aa806e7777df200016088c5,check for math errors,6,Scenario 3,77,68,100,80
+5aa806e7777df200016088c5,cover the loss himself,7,Scenario 3,13,59,28,12
+5aa806e7777df200016088c5,check the safe,8,Scenario 3,100,100,100,100
+5aa806e7777df200016088c5,explain the situation to the teacher,1,Scenario 4,100,100,100,100
+5aa806e7777df200016088c5,call her mom for help,2,Scenario 4,23,76,25,85
+5aa806e7777df200016088c5,show proof of mistake,3,Scenario 4,100,27,100,79
+5aa806e7777df200016088c5,ask for an extension,4,Scenario 4,100,27,100,79
+5aa806e7777df200016088c5,email the homework if possible,5,Scenario 4,100,100,25,79
+5aa806e7777df200016088c5,ask for a makeup assignment,6,Scenario 4,100,64,14,15
+5aa806e7777df200016088c5,submit it late,7,Scenario 4,0,50,6,84
+5aa806e7777df200016088c5,complete it at school,8,Scenario 4,100,0,0,0
+5aa806e7777df200016088c5,renew the membership,1,Scenario 6,100,100,100,100
+5aa806e7777df200016088c5,pay for a day pass,2,Scenario 6,100,72,100,77
+5aa806e7777df200016088c5,ask for a guest pass,3,Scenario 6,32,39,12,5
+5aa806e7777df200016088c5,use a friend's membership,4,Scenario 6,32,39,12,5
+5aa806e7777df200016088c5,check for gym specials,5,Scenario 6,100,100,100,100
+5aa806e7777df200016088c5,contact customer service,6,Scenario 6,35,25,37,78
+5aa806e7777df200016088c5,check for membership extensions,7,Scenario 6,100,100,66,57
+5aa806e7777df200016088c5,ask for a discount,8,Scenario 6,100,100,100,100
+5aa806e7777df200016088c5,use another card,1,Scenario 7,100,100,100,100
+5aa806e7777df200016088c5,pay with cash,2,Scenario 7,100,100,100,100
+5aa806e7777df200016088c5,call the bank,3,Scenario 7,100,100,100,100
+5aa806e7777df200016088c5,contact a friend for help,4,Scenario 7,26,83,13,33
+5aa806e7777df200016088c5,use a mobile payment app,5,Scenario 7,100,100,100,100
+5aa806e7777df200016088c5,borrow from his date,6,Scenario 7,0,24,0,0
+5aa806e7777df200016088c5,ask to split the bill,7,Scenario 7,56,67,0,50
+5aa806e7777df200016088c5,apologize and promise repayment,8,Scenario 7,0,0,0,0
+57d88513995a0b0001635002,Replace the money,1,Scenario 3,0,0,0,0
+57d88513995a0b0001635002,Tell his superiors,2,Scenario 3,92,50,100,81
+57d88513995a0b0001635002,check if everyone paid,3,Scenario 3,84,95,100,94
+57d88513995a0b0001635002,check the cameras,4,Scenario 3,100,100,100,91
+57d88513995a0b0001635002,check who was working the register.,5,Scenario 3,100,100,100,100
+57d88513995a0b0001635002,Ask the workers ,6,Scenario 3,67,75,100,77
+57d88513995a0b0001635002,Fire the cashiers,7,Scenario 3,44,49,50,41
+57d88513995a0b0001635002,Pray,8,Scenario 3,71,49,100,100
